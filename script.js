@@ -1,14 +1,14 @@
 (function(){
 
   var quotes = [
-    "They don't want us to win.",
-    "Egg whites, turkey sausage, wheat toast, water. Of course they don't want us to eat our breakfast, so we are going to enjoy our breakfast.",
-    "You smart, you loyal, you a genius.",
-    "Congratulations, you played yourself.",
-    "The key to more success is to have a lot of pillows.",
-    "Life is what you make it, so let's make it.",
-    "They key is to have every key, the key to open every door.",
-    "Learning is cool, but knowing is better, and I know the key to success."
+    "Reality continues to ruin my life.",
+    "Sometimes when I'm talking, my words can't keep up with my thoughts. I wonder why we think faster than we speak. Probably so we can think twice.",
+    "You know, Hobbes, some days even my lucky rocket ship underpants don't help.",
+    "I think night time is dark so you can imagine your fears with less distraction.",
+    "I'm killing time while I wait for life to shower me with meaning and happiness.",
+    "I'm not dumb. I just have a command of thoroughly useless information.",
+    "Life's a lot more fun when you aren't responsible for your actions.",
+    "A day can really slip by when you're deliberately avoiding what you're supposed to do."
     ];
 
   var images = [
